@@ -6,6 +6,12 @@
 4. Change a file and add/commit it 
    git add <file>
    git commit -m '<message>' 
+
+-to add all the files 
+   git add -A 
+-to commit for all 
+   git commit -a
+ 
 5. Create a shortcut neam to your git 
    git remote add <name> <gitlink>
 6. push or pull 
