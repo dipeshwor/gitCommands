@@ -7,7 +7,7 @@
    git add <file>
    git commit -m '<message>' 
 5. Create a shortcut neam to your git 
-   git remote <name> <gitlink>
+   git remote add <name> <gitlink>
 6. push or pull 
    git pull <name> master 
    git piush <name> master 
