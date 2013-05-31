@@ -1,0 +1,13 @@
+1. git config --global user.email "<email>"
+   git config --global user.name "<uer name>"
+2. Create a repo using website
+3. Change directory to your repo 
+   git init
+4. Change a file and add/commit it 
+   git add <file>
+   git commit -m '<message>' 
+5. Create a shortcut neam to your git 
+   git remote <name> <gitlink>
+6. push or pull 
+   git pull <name> master 
+   git piush <name> master 
