@@ -17,3 +17,4 @@
 6. push or pull 
    git pull <name> master 
    git piush <name> master 
+*******************************
